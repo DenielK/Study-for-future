@@ -1,8 +1,9 @@
 Как расшифровывается UML?
--
+- UML - Unified Modeling Language.
 
 Как назывался тип диаграмм, который очень похожи на план навигации по сайту (пример: Tegevusskeem, Andmebaasi skeem)
-- 
+- Тип диаграмм - Tegevusskeem (Activity diagram).
 
 Какой есть очень популярно-бесплатный сайт для создания схем?
-- 
+- Сайт - draw.io.
+
